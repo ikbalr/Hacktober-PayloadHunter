@@ -9,7 +9,7 @@ Hacktoberfest® is open to everyone in our global community. Whether you’re a 
 - You can sign up anytime between October 1 and October 31.
 ## Let's contribute the easy way
 
-For this time I will try to fill in the repo with a payload related to Bug Hunting, you can add it to participate in the Hacktoberfest 2020 event and also make it easier for other Bug Hunters to handle problems such as payloads being blocked by WAF and others by adding your payload in a new file with the format shown below.
+For this time I will try to fill in the repo with a payload related to Bug Hunting, you can add it to participate in the Hacktoberfest 2020 event and also make it easier for other Bug Hunters to handle problems such as payloads being blocked by WAF and others by adding your payload or bugbounty writeup in a new line with the format shown below.
 
 ## Payload List
 ##### XSS Bypass Cloudfront WAF By Noobsec
@@ -18,6 +18,10 @@ x"><--<img src= "><details/open/ontoggle=alert(`mindbl0w@bugcrodninja.com`)>> --
 ```
 ---
 
+## Writeup List
+##### No Rate Limiting to Bypass Phone Verification
+- [Rate Limit ~ Graylife](https://graylife.co/2019/infosec/perfectmoney-bug-bounty-otp-bypass-170)
+---
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
